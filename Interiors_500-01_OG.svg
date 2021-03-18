@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 24.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 2456.2 2018.1" style="enable-background:new 0 0 2456.2 2018.1;" xml:space="preserve">
 <style type="text/css">
 	.st0{opacity:0.6;stroke:#000000;stroke-width:5;stroke-miterlimit:10;enable-background:new    ;}
+	.st1{opacity:0.6;enable-background:new    ;}
 </style>
 <image style="overflow:visible;enable-background:new    ;" width="5760" height="4320" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAFoAAABDgCAIAAABlNWuAAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAP+lSURBVHhe7N17nGR3XSf8yWRmkskkVJEATwIk
@@ -53436,6 +53437,6 @@ AAAAAAAAAAAAAAAAAAAAAHvYddf9/6GfNpnCmn7BAAAAAElFTkSuQmCC" transform="matrix(0.6 
 <polygon id="B1" class="st0" points="982.1,1534.3 979,1619.2 1086.5,1617.1 1083.7,1534.3 "/>
 <polygon id="B2" class="st0" points="1131.6,1526 1130.5,1617.7 1196.7,1617.7 1248.8,1596.5 1233.1,1539.7 1251.7,1534.9 
 	1247.5,1509.4 1187.3,1526.7 "/>
-<g id="Layer_2_1_">
-</g>
+<path id="C2_1_" class="st1" d="M556.4,1528.6c0,0.6-19.3,71.4-19.3,71.4l53.1,22.4h217.1V1530H701.6l0.8,92.4h-48V1541H601
+	L556.4,1528.6z"/>
 </svg>
